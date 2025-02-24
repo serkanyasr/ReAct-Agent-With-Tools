@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain_anthropic
+python-dotenv
+beautifulsoup4
+streamlit 
+requests
+httpx==0.27.2 
+anthropic==0.38.0  # cause count_tokens error
+duckduckgo-search
